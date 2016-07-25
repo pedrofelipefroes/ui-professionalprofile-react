@@ -1,0 +1,23 @@
+{
+  "name": "ui-professionalprofile-react",
+  "version": "1.0.0",
+  "description": "A professional profile site for myself using React",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrofelipefroes/ui-professionalprofile-react.git"
+  },
+  "author": "Pedro Felipe Froes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrofelipefroes/ui-professionalprofile-react/issues"
+  },
+  "homepage": "https://github.com/pedrofelipefroes/ui-professionalprofile-react#readme",
+  "dependencies": {
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1"
+  }
+}
